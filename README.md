@@ -3,6 +3,7 @@ The goal is to predict the salary of data related positions based on location, c
 I will implement the model based on CRISP methodology.
 
 I use the follwing models for predction:
+
 Model #1: lienar regression to predcit the target (average salary)
 Model #2: Logistic Regression to predicct average salary is more than median or not: 1, 0 (classification)
 
